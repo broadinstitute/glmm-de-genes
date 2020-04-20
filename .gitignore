@@ -1,0 +1,14 @@
+software/FaST-LMM
+software/PySnpTools
+software/plink_linux_x86_64_20200219
+software/plink_linux_x86_64_20200219.zip
+software/plink2_linux_x86_64_20200409.zip
+software/BOLT-LMM_v2.3.4.tar.gz
+software/BOLT-LMM_v2.3.4
+docker/plink
+docker/plink2
+docker/bolt
+docker/.rstudio/
+data/pbmc3k/
+.ipynb_checkpoints/
+.DS_Store
